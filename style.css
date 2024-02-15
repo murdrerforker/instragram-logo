@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#insta {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    ;
+    border-radius: 54px;
+    width: 270px;
+    height: 270px;
+    margin: auto;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.colorwhite {
+    border: 18px solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+
+.circlewhite {
+    border: 18px solid white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+#circle {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-top: -78%;
+
+}
